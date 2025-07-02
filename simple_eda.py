@@ -16,7 +16,7 @@ from dotenv import load_dotenv
 # ===============================================================
 
 # ⚠️ point this at your Lending Club CSV (or any CSV with header row)
-CSV_PATH = r"C:\Users\hendr\Downloads\LendingClubData_31July2024\credit_card_2015_2016.csv"
+CSV_PATH = r"C:\Users\Sangu80\Downloads\LendingClubData_31July2024\credit_card_2015_2016.csv"
 
 # parse only the header (schema) first – real data loaded later on demand
 LOAD_FULL_DATA = True          # set False if you have a huge file
