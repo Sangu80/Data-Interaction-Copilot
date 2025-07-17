@@ -4,7 +4,7 @@
 
 ![copilot-banner](assets/banner.gif) <!-- Replace with actual image path -->
 
-Welcome to my submission for **Part 2B** of the **Data Science Coding Test – 12 May 2025**. This project is a compact, schema-aware data assistant — think of it as an "EDA Copilot" powered by large language models (LLMs), built for analysts who want powerful, conversational control over their data.
+Welcome to compact, schema-aware data assistant — think of it as an "EDA Copilot" powered by large language models (LLMs), built for analysts who want powerful, conversational control over their data.
 
 ---
 
