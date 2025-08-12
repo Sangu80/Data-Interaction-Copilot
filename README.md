@@ -1,6 +1,6 @@
-# Data-Interaction-Copilot
+# AI Based Data-Interaction-Copilot
 
-# 🤖 Data-Interaction Copilot – A Smarter Way to Explore Data
+# 🤖 AI Based Data-Interaction Copilot – A Smarter Way to Explore Data
 
 ![copilot-banner](assets/banner.gif) <!-- Replace with actual image path -->
 
